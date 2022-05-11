@@ -1,0 +1,8 @@
+{
+    "emailFieldValidationMsg" : "Invalid Email Address",
+    "zipCodeValidationMessage" : "Please provide valid Zipcode",
+    "zipCodeLessThanFiveCharactersValidation" : "The min length of ZipCode should be 5",
+    "zipCodeMoreThantenCharactersValidation" : "The max length of ZipCode should be 10",
+    "validationMsg": "This field is required",
+    "emailRequired": "Email required"
+}

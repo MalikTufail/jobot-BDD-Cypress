@@ -1,0 +1,24 @@
+{
+    "emailId" : "test@gmail.com",
+    "emailValidationText" : "Email required",
+    "firstName" : "Test",
+    "lastName" : "123",
+    "phoneNumber" : "(123) 456 - 7890",
+    "company" : "Test Company",
+    "companyWebsite" : "www.test.com",
+    "jobTitle" : "Testing",
+    "industry" : {
+    "accounting" : "Accounting",
+    "airlinesAviation" : "Airlines/Aviation",
+    "alternativeDisputeResolution" : "Alternative Dispute Resolution",
+    "alternativeMedicine" : "Alternative Medicine",
+    "animation" : "Animation",
+    "apparel&fashion" : "Apparel & Fashion",
+    "architecture&planning" : "Architecture & Planning",
+    "automotive" : "Automotive",
+    "aviation&aerospace" : "Aviation & Aerospace"
+    },
+    "position" : "CEO",
+    "zipCode" : 12345,
+    "text" : "text"
+}

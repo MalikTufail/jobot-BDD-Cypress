@@ -1,0 +1,7 @@
+{
+    "invalidEmailId" : "test123@gmail",
+    "missingDomain": "test",
+    "missingSubDomain" : "test@gmail",
+    "invlidPhoneNumber" : "hk$&jkhgf%",
+    "invalidZipCode" : "asd$%&*"
+}
